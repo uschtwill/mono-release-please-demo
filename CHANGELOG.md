@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# Unreleased (2022-11-16)
+
+#### :rocket: Enhancement
+* `footer`
+  * [#1](https://github.com/uschtwill/mono-NAIVE/pull/1) feat: much improved header 123 ([@uschtwill](https://github.com/uschtwill))
+
+#### Committers: 1
+- Wilhelm Uschtrin ([@uschtwill](https://github.com/uschtwill))
+
 # [0.6.0](https://github.com/uschtwill/mono-NAIVE/compare/v0.5.1...v0.6.0) (2022-11-16)
 
 
