@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": "https://github.com/uschtwill/mono-NAIVE.git",
   "devDependencies": {
     "lerna": "^6.0.3"
   },
