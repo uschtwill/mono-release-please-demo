@@ -6,5 +6,11 @@
   ],
   "devDependencies": {
     "lerna": "^6.0.3"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "publish": "lerna publish --conventional-commits --create-release github --yes"
   }
 }
