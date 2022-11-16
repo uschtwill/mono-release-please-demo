@@ -21,5 +21,10 @@
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
-  }
+  },
+  "gitHead": "1db23aea1e627b016cfe4dbe57ea66a01f56139d",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/uschtwill/mono-NAIVE.git"
 }
