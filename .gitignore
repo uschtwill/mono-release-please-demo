@@ -7,3 +7,7 @@ packages/remixapp/build
 packages/remixapp/public/build
 .env
 
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
