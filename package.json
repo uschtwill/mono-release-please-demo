@@ -18,5 +18,6 @@
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
     "test": "lerna run test"
-  }
+  },
+  "packageManager": "yarn@3.3.0"
 }
