@@ -1,17 +1,22 @@
 {
-  "name": "root",
+  "name": "mono-release-please",
+  "version": "0.0.1",
   "private": true,
+  "engines": {
+    "node": "18.12.1",
+    "npm": "8.19.2",
+    "yarn": "3.3.0"
+  },
   "workspaces": [
     "packages/*"
   ],
-  "repository": "https://github.com/uschtwill/mono-NAIVE.git",
+  "repository": "https://github.com/uschtwill/mono-release-please.git",
   "devDependencies": {
     "lerna": "^6.0.3"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
-    "test": "lerna run test",
-    "publish": "lerna publish --conventional-commits --create-release github --yes"
+    "test": "lerna run test"
   }
 }

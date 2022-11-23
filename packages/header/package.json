@@ -1,5 +1,5 @@
 {
-  "name": "@uschtwill/mono-naive-header",
+  "name": "@uschtwill/mono-release-please-header",
   "version": "0.6.0",
   "main": "dist/index.js",
   "scripts": {
@@ -26,5 +26,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@uschtwill"
   },
-  "repository": "https://github.com/uschtwill/mono-NAIVE.git"
+  "repository": "https://github.com/uschtwill/mono-release-please.git"
 }
