@@ -3,7 +3,7 @@ import React from 'react';
 export function Footer() {
     return (
         <footer>
-            Good Footer.
+            Good Footer!!!
         </footer>
     );
 }
