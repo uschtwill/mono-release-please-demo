@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/uschtwill/mono-release-please/compare/v1.0.0...v1.1.0) (2022-11-24)
+
+
+### Features
+
+* amazing feature ([5822499](https://github.com/uschtwill/mono-release-please/commit/58224991e35b62c8e1110afa5048233d9af45998))
+* even better feature ([f79ab64](https://github.com/uschtwill/mono-release-please/commit/f79ab64b8e369fefb37c2c607ca8621c344ff20f))
+
 ## 1.0.0 (2022-11-24)
 
 
