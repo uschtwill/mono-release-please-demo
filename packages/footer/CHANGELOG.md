@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/uschtwill/mono-release-please/compare/mono-release-please-footer-v1.1.0...mono-release-please-footer-v1.2.0) (2022-11-24)
+
+
+### Features
+
+* amazing feature 22 ([f9e4c48](https://github.com/uschtwill/mono-release-please/commit/f9e4c48f434855c25d36e8c2bc218fbd179a7e67))
+
 ## [1.1.0](https://github.com/uschtwill/mono-release-please/compare/mono-release-please-footer-v1.0.0...mono-release-please-footer-v1.1.0) (2022-11-24)
 
 
