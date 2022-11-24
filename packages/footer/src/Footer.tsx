@@ -4,6 +4,8 @@ export function Footer() {
     return (
         <footer>
             Better Footer!!!!!!!
+
+            a change
         </footer>
     );
 }
