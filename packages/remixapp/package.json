@@ -1,5 +1,6 @@
 {
   "name": "remixapp",
+  "version": "0.0.1",
   "private": true,
   "sideEffects": false,
   "scripts": {
@@ -40,6 +41,5 @@
         ]
       }
     }
-  },
-  "version": "0.6.0"
+  }
 }
