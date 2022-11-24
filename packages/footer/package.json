@@ -1,6 +1,6 @@
 {
   "name": "@uschtwill/mono-release-please-footer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
