@@ -1,6 +1,6 @@
 {
-  "packages/footer": "1.0.0",
-  "packages/header": "1.0.0",
-  "packages/remixapp": "1.0.0",
+  "packages/footer": "1.1.0",
+  "packages/header": "1.1.0",
+  "packages/remixapp": "1.1.0",
   ".": "1.6.0"
 }
