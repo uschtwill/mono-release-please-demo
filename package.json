@@ -17,7 +17,8 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
-    "test": "lerna run test"
+    "test": "lerna run test",
+    "pseudo-command": "ls"
   },
   "packageManager": "yarn@3.3.0"
 }
