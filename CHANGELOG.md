@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.3.0](https://github.com/uschtwill/mono-release-please/compare/v1.2.0...v1.3.0) (2022-11-24)
+
+
+### Features
+
+* beter footer ([f3704bb](https://github.com/uschtwill/mono-release-please/commit/f3704bb0ab0a422ac8d5afe8217d3c94bc27d222))
+* **footer:** another change ([40b506a](https://github.com/uschtwill/mono-release-please/commit/40b506ac3dc1b279601c4741b2cd943978f05716))
+* **footer:** improve footer ([cadc8c8](https://github.com/uschtwill/mono-release-please/commit/cadc8c8286c8110d47ef96ae318a050fe1fda43f))
+* **footer:** okay footer ([f2b5c48](https://github.com/uschtwill/mono-release-please/commit/f2b5c48e1945fe3f3483302201ee4c8a7ecef65c))
+* **header:** better header ([5a88b13](https://github.com/uschtwill/mono-release-please/commit/5a88b1327545b31f20dd5218ec5922fd0a663dbb))
+
 ## [1.2.0](https://github.com/uschtwill/mono-release-please/compare/v1.1.0...v1.2.0) (2022-11-24)
 
 
